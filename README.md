@@ -6,7 +6,9 @@
 
 🌱 I’m currently learning Svelte with Typescript and TailwindCSS which is a super convenient way to build UI's very fast
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/timoyo93/timoyo93/blob/master/devcard.svg" width="400" alt="Timo's Dev Card"/></a>
+My daily.dev card:
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/timoyo93/timoyo93/blob/main/devcard.svg" width="400" alt="Timo's Dev Card"/></a>
 
 <!---
 timoyo93/timoyo93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
